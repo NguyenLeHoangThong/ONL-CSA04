@@ -2,6 +2,7 @@
 # Cài pygame: gõ pip install pygame lên powershell
 # Chạy file này để chơi !!!!
 
+# Link youtube học pygame: https://www.youtube.com/watch?v=Qf3-aDXG8q4
 
 # Thử biến code này thành OOP
 
