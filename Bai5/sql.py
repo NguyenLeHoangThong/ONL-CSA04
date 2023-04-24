@@ -43,3 +43,14 @@ print(cursor.fetchall())
 
 
 conn.close()
+
+
+# SQL
+
+# SELECT
+# WHERE
+# ORDER BY (ASC | DESC)
+# LIMIT
+# AS
+
+
