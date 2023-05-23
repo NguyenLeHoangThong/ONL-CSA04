@@ -34,3 +34,9 @@ FROM ORDERS
 GROUP BY CustomerID
 ORDER BY COUNT(OrderID) DESC
 LIMIT 1;
+
+-- Câu 9 bài tập về nhà
+select ProductId, count(*)
+from OrderDetails
+group by ProductId
+having count(*) > 10;
