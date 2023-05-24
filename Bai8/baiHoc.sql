@@ -1,3 +1,7 @@
+-- Link tải cơ sở dữ liệu HR: https://drive.google.com/file/d/1LCY8nEvp4yAHzVbGHVCcul2Pz9Ic3U_y/view?usp=sharing
+-- hoặc có thể lấy file HR.sqlite của Bai7 luôn nhé, vì trên link và file đấy giống nhau
+
+
 -- Đề bài, lấy ra thông tin tất cả nhân viên, bao gồm TÊN PHÒNG BAN nhân viên đó làm việc
 select employees.*, departments.DEPARTMENT_NAME
 from employees
