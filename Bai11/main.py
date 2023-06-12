@@ -1,0 +1,1 @@
+# Link colab buổi 11: https://colab.research.google.com/drive/1EDGh1I1EgHJ-mm4fA79rS8k8H--6Q_OR?usp=sharing
