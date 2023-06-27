@@ -13,4 +13,4 @@
 ### Buổi 10: https://youtu.be/MHz200UTNnM
 ### Buổi 11: https://youtu.be/vrAi6wL7aPs
 ### Buổi 12: https://youtu.be/AuHSDknhqqo
-### Buổi 12: https://youtu.be/mNIHkxhn46g
+### Buổi 13: https://youtu.be/mNIHkxhn46g
